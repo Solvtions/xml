@@ -1,0 +1,31 @@
+<dir>
+  <title>Movies</title>
+  <link>file://movies.xml</link>
+</dir>
+
+<dir>
+  <title>TV Shows</title>
+  <link>file://tv.xml</link>
+</dir>
+
+<dir>
+  <title>Kids Zone</title>
+  <link>file://kids.xml</link>
+</dir>
+
+<dir>
+  <title>Search Movies</title>
+  <tmdb>search</tmdb>
+</dir>
+
+<dir>
+  <title>Search TV Shows</title>
+  <trakt>search</trakt>
+</dir>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.jenplugin/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>

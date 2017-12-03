@@ -31,7 +31,7 @@
 
 <dir>
   <title>Horror</title>
-  <link>file://horror.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/horror.xml</link>
 </dir>
  
  <dir>

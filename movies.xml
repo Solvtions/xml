@@ -1,6 +1,6 @@
 <dir>
   <title>Must See Movies</title>
-  <link>file://lists.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/lists.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/MUSTSEE.png</thumbnail>
 </dir>
 
@@ -30,25 +30,25 @@
 
 <dir>
   <title>Genres</title>
-  <link>file://genres.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/genres.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/GENRES.png</thumbnail>
 </dir>
 
 <dir>
   <title>Chick Flicks</title>
-  <link>file://chicks.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/chicks.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/GENRES.png</thumbnail>
 </dir>
 
 <dir>
   <title>Collections</title>
-  <link>file://Collections.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/Collections.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/COLLECTIONS.png</thumbnail>
 </dir>
 
 <dir>
   <title>More Collections</title>
-  <link>file://MoreCollections.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/MoreCollections.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/MORE.png</thumbnail>
 </dir>
 

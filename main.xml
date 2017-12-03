@@ -1,16 +1,16 @@
 <dir>
   <title>Movies</title>
-  <link>file://movies.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/movies.xml</link>
 </dir>
 
 <dir>
   <title>TV Shows</title>
-  <link>file://tv.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/tv.xml</link>
 </dir>
 
 <dir>
   <title>Kids Zone</title>
-  <link>file://kids.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/kids.xml</link>
 </dir>
 
 <dir>

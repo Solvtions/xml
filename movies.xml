@@ -53,6 +53,11 @@
 </dir>
 
 <dir>
+  <title>Production Companies</title>
+  <link></link>
+</dir>
+
+<dir>
   <title>Search Movies</title>
   <tmdb>search</tmdb>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/SEARCHMOVIES.png</thumbnail>

@@ -1,0 +1,44 @@
+<dir>
+  <title>Pixar Animation</title>
+  <tmdb>company/movies/3</tmdb>
+</dir>
+
+<dir>
+  <title>Disney</title>
+  <tmdb>company/movies/6421</tmdb>
+</dir>
+
+<dir>
+  <title>Walt Disney Productions</title>
+  <tmdb>company/movies/3166</tmdb>
+</dir>
+
+<dir>
+  <title>Walt Disney Classics</title>
+  <tmdb>company/movies/6470</tmdb>
+</dir>
+
+<dir>
+  <title>Walt Disney Animation Studios</title>
+  <tmdb>company/movies/6125</tmdb>
+</dir>
+
+<dir>
+  <title>DreamWorks Animation</title>
+  <tmdb>company/movies/521</tmdb>
+</dir>
+
+<dir>
+  <title>Universal Cartoon Studios</title>
+  <tmdb>company/movies/4285</tmdb>
+</dir>
+
+<dir>
+  <title>Universal Animation Studios</title>
+  <tmdb>company/movies/5556</tmdb>
+</dir>
+
+<dir>
+  <title>Warner Bros. Animation</title>
+  <tmdb>company/movies/2785</tmdb>
+</dir>

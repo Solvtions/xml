@@ -1,6 +1,11 @@
 <dir>
-  <title>Pixar Animation</title>
-  <tmdb>company/movies/3</tmdb>
+  <title>Kids Movies</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/kidsmovies.xml</link>
+</dir>
+
+<dir>
+  <title>Kids Shows</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/kidshows.xml</link>
 </dir>
 
 <dir>

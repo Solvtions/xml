@@ -23,6 +23,11 @@
 </dir>
 
 <dir>
+  <title>Airing Today</title>
+  <tmdb>tv/on_the_air</tmdb>
+</dir>
+
+<dir>
   <title>Classic TV</title>
   <tmdb>list/38976</tmdb>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/CLASSIC-TV.png</thumbnail>

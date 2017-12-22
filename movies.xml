@@ -1,4 +1,9 @@
 <dir>
+  <title>Early Releases</title>
+  <link>file://lists.xml</link>
+</dir>
+
+<dir>
   <title>Must See Movies</title>
   <tmdb>list/39043</tmdb>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/MUSTSEE.png</thumbnail>

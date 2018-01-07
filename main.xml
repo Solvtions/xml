@@ -14,6 +14,11 @@
 </dir>
 
 <dir>
+  <title>Live TV</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/livetv.xml</link>
+</dir>
+
+<dir>
   <title>Kids Zone</title>
   <link>https://raw.githubusercontent.com/Solvtions/xml/master/kids.xml</link>
 </dir>

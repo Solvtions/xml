@@ -1,0 +1,14 @@
+<dir>
+  <title>USA</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/usatv.xml</link>
+</dir>
+
+<dir>
+  <title>Sports</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/sports.xml</link>
+</dir>
+
+<dir>
+  <title>News</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/newstv.xml</link>
+</dir>

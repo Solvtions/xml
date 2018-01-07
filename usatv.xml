@@ -5,3 +5,43 @@
     <thumbnail></thumbnail> 
     <fanart></fanart> 
 </plugin>
+
+<plugin> 
+    <title>[B][COLORred]HBO[/COLOR][/B]</title> 
+    <link>
+    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/36674/HBO-(HD)</sublink></link> 
+    <thumbnail></thumbnail> 
+    <fanart></fanart> 
+</plugin>
+
+<plugin> 
+    <title>[B][COLORred]SHOWTIME[/COLOR][/B]</title> 
+    <link>
+    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/44126/Showtime-(HD)</sublink></link> 
+    <thumbnail></thumbnail> 
+    <fanart></fanart> 
+</plugin>
+
+<plugin> 
+    <title>[B][COLORred]TNT[/COLOR][/B]</title> 
+    <link>
+    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/57973/TNT-(HD)</sublink></link> 
+    <thumbnail></thumbnail> 
+    <fanart></fanart> 
+</plugin>
+
+<plugin> 
+    <title>[B][COLORred]CARTOON NETWORK[/COLOR][/B]</title> 
+    <link>
+    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/71632/Cartoon-Network</sublink></link> 
+    <thumbnail></thumbnail> 
+    <fanart></fanart> 
+</plugin>
+
+<plugin> 
+    <title>[B][COLORred]NFL NETWORK[/COLOR][/B]</title> 
+    <link>
+    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/68875/NFL-Network(HD)</sublink></link> 
+    <thumbnail></thumbnail> 
+    <fanart></fanart> 
+</plugin>

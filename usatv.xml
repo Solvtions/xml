@@ -53,3 +53,21 @@
     <thumbnail></thumbnail> 
     <fanart></fanart> 
 </plugin>
+
+<plugin> 
+    <title>[B][COLORred]ID[/COLOR][/B]</title> 
+    <link>
+    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/69111/ID---Investigation-Discovery-(HD)</sublink></link> 
+    <thumbnail></thumbnail> 
+    <fanart></fanart> 
+</plugin>
+
+<plugin> 
+    <title>[B][COLORred]VH1[/COLOR][/B]</title> 
+    <link>
+    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/52988/VH1</sublink></link> 
+    <thumbnail></thumbnail> 
+    <fanart></fanart> 
+</plugin>
+
+https://www.streamlive.to/view/52988/VH1

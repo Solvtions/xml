@@ -1,7 +1,6 @@
 <dir>
-  <title>Early Releases</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/screeners.xml</link>
-  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/EARLY.png</thumbnail>
+    <title>Newest Releases</title>
+    <Airtable>newest_releases/page1</Airtable>
 </dir>
 
 <dir>

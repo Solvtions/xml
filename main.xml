@@ -23,6 +23,11 @@
   <link>https://raw.githubusercontent.com/Solvtions/xml/master/kids.xml</link>
 </dir>
 
+<item>
+  <title>Pair With Sites</title>
+  <pairwith>pairlist</pairwith>
+</item>
+
 <dir>
   <title>Search Movies</title>
   <tmdb>search</tmdb>

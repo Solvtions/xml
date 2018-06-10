@@ -2,13 +2,8 @@
   <name>[COLORred]***These channels are not stable, if they go down send us a message.!***[/COLOR]</name>
 </dir>
 
-<dir>
-  <title>Crawford vs. Horn</title>
-  <link>http://cors7.nba4live.fun/hls/lal.m3u8</link>
-</dir>
-
 <dir> 
-    <title>Crawford vs. Horn 2</title> 
+    <title>Crawford vs. Horn</title> 
     <thumbnail></thumbnail> 
     <m3u>http://cors7.nba4live.fun/hls/lal.m3u8</m3u> 
     <fanart></fanart> 

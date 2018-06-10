@@ -15,7 +15,7 @@
 
 <dir>
   <title>Live Events</title>
-  <link>plugin://plugin.video.Kritik</link>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/livetv.xml</link>
 </dir>
 
 <dir>

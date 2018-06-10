@@ -3,16 +3,14 @@
 </dir>
 
 <dir>
-  <title>USA</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/usatv.xml</link>
+  <title>Crawford vs. Horn</title>
+  <link>http://cors7.nba4live.fun/hls/lal.m3u8</link>
 </dir>
 
-<dir>
-  <title>Sports</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/sports.xml</link>
-</dir>
-
-<dir>
-  <title>News</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/newstv.xml</link>
+<dir> 
+    <title>Crawford vs. Horn 2</title> 
+    <thumbnail></thumbnail> 
+    <m3u>http://cors7.nba4live.fun/hls/lal.m3u8</m3u> 
+    <fanart></fanart> 
+    <info> </info> 
 </dir>

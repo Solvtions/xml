@@ -1,5 +1,5 @@
 <dir>
-    <title>Newest Releases</title>
+    <title>Newest Releases (Requires Real Debrid)</title>
     <Airtable>newest_releases/page1</Airtable>
 </dir>
 
@@ -36,12 +36,6 @@
 <dir>
   <title>Genres</title>
   <link>https://raw.githubusercontent.com/Solvtions/xml/master/genres.xml</link>
-  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/GENRES.png</thumbnail>
-</dir>
-
-<dir>
-  <title>Chick Flicks</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/chicks.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/GENRES.png</thumbnail>
 </dir>
 

@@ -1,9 +1,7 @@
-<dir>
-	<item>
-    <title>Sports Replays</title>
-    <Airtable>sports_replays</Airtable>
-	</item>
-</dir>
+<item>
+	<title>Sports Replays</title>
+	<Airtable>sports_replays</Airtable>
+</item>
 
 <dir>
 	<title>HesGoal Games</title>

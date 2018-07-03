@@ -1,4 +1,9 @@
 <dir>
+    <title>Sports Channels</title>
+    <Airtable>sports_channels</Airtable>
+</dir>
+
+<dir>
     <item>
     <title>[B][COLORgold]SPORTS REPLAYS[/COLOR][/B]</title>
     <Airtable>sports_replays</Airtable>

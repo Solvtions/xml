@@ -1,7 +1,11 @@
-<item>
-	<title>Sports Replays</title>
-	<Airtable>sports_replays</Airtable>
-</item>
+<dir>
+    <item>
+    <title>[B][COLORgold]SPORTS REPLAYS[/COLOR][/B]</title>
+    <Airtable>sports_replays</Airtable>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    </item>
+</dir>
 
 <dir>
 	<title>HesGoal Games</title>

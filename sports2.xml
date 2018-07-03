@@ -1,6 +1,6 @@
 <dir>
-	<title>Replays</title>
-	<link>https://raw.githubusercontent.com/Solvtions/xml/master/replays.xml</link>
+    <title>Sports Replays</title>
+    <Airtable>sports_replays</Airtable>
 </dir>
 
 <dir>

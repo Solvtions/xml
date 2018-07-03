@@ -1,39 +1,44 @@
 <dir>
-  <title>Kids Movies</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/kidsmovies.xml</link>
+    <title>Cartoons</title>
+    <wctoon>category/cartoon-list</wctoon>
 </dir>
 
 <dir>
-  <title>Kids Shows</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/kidshows.xml</link>
+	<title>Kids Movies</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/kidsmovies.xml</link>
 </dir>
 
 <dir>
-<title>Kids Animated</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
-<thumbnail></thumbnail>
+	<title>Kids Shows</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/kidshows.xml</link>
 </dir>
- 
+
 <dir>
-<title>Kids Live Action</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-live-action/items</trakt>
-<thumbnail></thumbnail>
+	<title>Kids Animated</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
+	<thumbnail/>
 </dir>
- 
+
 <dir>
-<title>Furry Friends</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-furry/items</trakt>
-<thumbnail></thumbnail>
+	<title>Kids Live Action</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-live-action/items</trakt>
+	<thumbnail/>
 </dir>
- 
+
 <dir>
-<title>Studio Ghibli</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-ghibli-movies/items</trakt>
-<thumbnail></thumbnail>
+	<title>Furry Friends</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-furry/items</trakt>
+	<thumbnail/>
 </dir>
- 
+
 <dir>
-<title>Roald Dahl Movies</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
-<thumbnail></thumbnail>
+	<title>Studio Ghibli</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-ghibli-movies/items</trakt>
+	<thumbnail/>
+</dir>
+
+<dir>
+	<title>Roald Dahl Movies</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
+	<thumbnail/>
 </dir>

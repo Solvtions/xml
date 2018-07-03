@@ -8,20 +8,35 @@
 		<title>TV Shows</title>
 		<link>https://raw.githubusercontent.com/Solvtions/xml/master/tv.xml</link>
 	</dir>
+	
+	<dir>
+		<title>Kids Zone</title>
+		<link>https://raw.githubusercontent.com/Solvtions/xml/master/kids.xml</link>
+	</dir>
 
 	<dir>
 		<title>Music</title>
 		<link>https://raw.githubusercontent.com/Solvtions/xml/master/musicmain.xml</link>
 	</dir>
+	
+	<dir>
+		<title>Anime</title>
+		<link>https://raw.githubusercontent.com/Solvtions/xml/master/anime.xml</link>
+	</dir>
+	
+	<dir>
+		<title>Documentaries</title>
+		<link>https://raw.githubusercontent.com/Solvtions/xml/master/docs.xml</link>
+	</dir>
+	
+	<dir>
+		<title>Sports</title>
+		<link>https://raw.githubusercontent.com/Solvtions/xml/master/sports2.xml</link>
+	</dir>
 
 	<dir>
 		<title>Live Events</title>
 		<link>https://raw.githubusercontent.com/Solvtions/xml/master/livetv.xml</link>
-	</dir>
-
-	<dir>
-		<title>Kids Zone</title>
-		<link>https://raw.githubusercontent.com/Solvtions/xml/master/kids.xml</link>
 	</dir>
 
 	<dir>

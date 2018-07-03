@@ -17,3 +17,13 @@
   <title>UK Music</title>
   <link>https://raw.githubusercontent.com/Solvtions/xml/master/ukmusic.xml</link>
 </dir>
+
+<dir>
+  <title>DJ Haven</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/djing.xml</link>
+</dir>
+
+<dir>
+  <title>Urban Radio</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/urbanradio.xml</link>
+</dir>

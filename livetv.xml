@@ -1,4 +1,5 @@
-<item>
-<title>Crawford vs. Horn</title>
-<link>http://cors7.nba4live.fun/hls/lal.m3u8</link>
-</item>
+<dir>
+	<title>US Channels</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/us.xml</link>
+</dir>
+

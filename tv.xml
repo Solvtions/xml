@@ -35,6 +35,11 @@
 </dir>
 
 <dir>
+      <title>24/7 TV Shows</title>
+      <arconaitv2>shows</arconaitv2>
+</dir>
+
+<dir>
   <title>Networks</title>
   <link>https://raw.githubusercontent.com/Solvtions/xml/master/Networks.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/NETWORKS.png</thumbnail>

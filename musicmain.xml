@@ -1,4 +1,9 @@
 <dir>
+	<title>Podcast One</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/podone.xml</link>
+</dir>
+
+<dir>
   <title>Music Choice</title>
   <link>https://raw.githubusercontent.com/Solvtions/xml/master/musicchoice.xml</link>
 </dir>

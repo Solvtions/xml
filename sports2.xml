@@ -1,4 +1,9 @@
 <dir>
+    <title>KTV REPLAYS</title>
+    <link>https://raw.githubusercontent.com/Solvtions/xml/master/replays2.xml</link>
+</dir>
+
+<dir>
     <title>Sports Channels</title>
     <Airtable>sports_channels</Airtable>
 </dir>

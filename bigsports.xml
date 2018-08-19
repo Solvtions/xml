@@ -1,0 +1,19 @@
+<dir>
+	<title>NFL</title>
+	<sports_leagues>nfl</sports_leagues>
+</dir>
+
+<dir>
+	<title>NBA</title>
+	<sports_leagues>nba</sports_leagues>
+</dir>
+
+<dir>
+	<title>NHL</title>
+	<sports_leagues>nhl</sports_leagues>
+</dir>
+
+<dir>
+	<title>MLB</title>
+	<sports_leagues>mlb</sports_leagues>
+</dir>

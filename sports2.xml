@@ -4,6 +4,11 @@
 </dir>
 
 <dir>
+	<title>Major Sports</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/bigsports.xml</link>
+</dir>
+
+<dir>
     <title>Sports Channels</title>
     <Airtable>sports_channels</Airtable>
 </dir>

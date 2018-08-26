@@ -17,3 +17,13 @@
 	<title>MLB</title>
 	<sports_leagues>mlb</sports_leagues>
 </dir>
+
+<dir>
+	<title>PPV</title>
+	<sports_leagues>ppv</sports_leagues>
+</dir>
+
+<dir>
+	<title>Wrestling</title>
+	<sports_leagues>wwe</sports_leagues>
+</dir>

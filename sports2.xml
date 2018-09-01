@@ -9,8 +9,8 @@
 </dir>
 
 <dir>
-	<title>Sports Replays</title>
-	<Airtable>sports_replays</Airtable>
+	<title>All Sports Replays</title>
+	<all_sports_replays>all</all_sports_replays>
 </dir>
 
 <dir>

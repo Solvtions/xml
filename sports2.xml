@@ -9,11 +9,6 @@
 </dir>
 
 <dir>
-	<title>All Sports Replays</title>
-	<all_sports_replays>all</all_sports_replays>
-</dir>
-
-<dir>
 	<title>Sports Channels</title>
 	<Airtable>sports_channels</Airtable>
 </dir>

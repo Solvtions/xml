@@ -1,14 +1,29 @@
-<item>
-    <title>Browns VS. Giants</title>
-    <link>https://neuclnlds329.akamaized.net/nlds_vod/nfl/vod/2018/08/09/37522/1_37522_cle_nyg_2018_b_whole_1_4500_pc.mp4.m3u8?hdntl=exp=1534340128~acl=/*~data=hdntl~hmac=dea4f508d9be502d51165646031cc9262f273101ab219fd89e86a8bb41eee145|User-Agent=Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T560NU Build/NMF26X)</link>
-</item>
+<dir>
+	<title>NFL</title>
+	<all_sports_replays>leagues/NFL/appSJCjNYAtA6KEfA</all_sports_replays>
+</dir> 
 
-<item>
-    <title>Giants VS. Lions</title>
-    <link>https://neuclnlds329.akamaized.net/nlds_vod/nfl/vod/2018/08/17/37550/1_37550_nyg_det_2018_b_whole_1_4500_pc.mp4.m3u8?hdntl=exp=1534711033~acl=/*~data=hdntl~hmac=3db6984db721e1423bcc4ba6e6da58a9d94a77991be5cf59f716f774dd070223|User-Agent=Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T560NU Build/NMF26X)</link>
-</item>
+<dir>
+	<title>MLB</title>
+	<all_sports_replays>leagues/MLB/app8KZcIqmCP2GfTV</all_sports_replays>
+</dir>
 
-<item>
-	<title>Giants vs. Jets</title>
-	<link>https://neuclnlds329.akamaized.net/nlds_vod/nfl/vod/2018/08/24/37578/1_37578_nyg_nyj_2018_b_whole_1_4500_pc.mp4.m3u8?hdntl=exp=1535595704~acl=/*~data=hdntl~hmac=607b0ec59cd239b537bf103824de458d982470b0bd108228f1418a37b839e6a4|User-Agent=Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T560NU Build/NMF26X)</link>
-</item>
+<dir>
+	<title>Combat Sports</title>
+	<all_sports_replays>leagues/COMBAT_SPORTS/app2clmvReSTvxNTy</all_sports_replays>
+</dir>
+
+<dir>
+	<title>Golf</title>
+	<all_sports_replays>leagues/GOLF_REPLAY/app3HVqPpxzqVUaGg</all_sports_replays>
+</dir>
+
+<dir>
+	<title>NHL</title>
+	<all_sports_replays>leagues/NHL_REPLAY/app5BBPSzTk4D8ij0</all_sports_replays>
+</dir>
+
+<dir>
+	<title>Motor Sports</title>
+	<all_sports_replays>leagues/MOTOR_SPORTS/appxkpEmICFgullUz</all_sports_replays>
+</dir>

@@ -10,7 +10,7 @@
 
 <dir>
 	<title>Must See Movies</title>
-	<tmdb>list/39043</tmdb>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/mustsee.xml</link>
 	<thumbnail>http://kritiktv.net/ktv/Images/ICONS/MUSTSEE.png</thumbnail>
 </dir>
 

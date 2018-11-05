@@ -1,34 +1,39 @@
+<plugin>
+	<name>MP3 Streams</name>
+	<link>plugin://plugin.audio.mp3streams/&quot;,return</link>
+</plugin>
+
 <dir>
 	<title>Podcasts</title>
 	<link>https://raw.githubusercontent.com/Solvtions/xml/master/podcast.xml</link>
 </dir>
 
 <dir>
-  <title>Music Choice</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/musicchoice.xml</link>
+	<title>Music Choice</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/musicchoice.xml</link>
 </dir>
 
 <dir>
-  <title>Music Choice Videos</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/musicchoicevideo.xml</link>
+	<title>Music Choice Videos</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/musicchoicevideo.xml</link>
 </dir>
 
 <dir>
-  <title>LastFM (Coming Soon)</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/lastfm.xml</link>
+	<title>LastFM (Coming Soon)</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/lastfm.xml</link>
 </dir>
 
 <dir>
-  <title>UK Music</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/ukmusic.xml</link>
+	<title>UK Music</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/ukmusic.xml</link>
 </dir>
 
 <dir>
-  <title>DJ Haven</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/djing.xml</link>
+	<title>DJ Haven</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/djing.xml</link>
 </dir>
 
 <dir>
-  <title>Urban Radio</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/urbanradio.xml</link>
+	<title>Urban Radio</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/urbanradio.xml</link>
 </dir>

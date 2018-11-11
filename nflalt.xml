@@ -13,22 +13,15 @@
 
 
 <item>
-<title>Seahawks vs Rams</title>
-<link>http://vip.ssstream.live/live/nfl/playlist.m3u8|Referer=http://ssstream.live/</link>
+<title>Redskins vs Buccaneers</title>
+<link>http://sv1.ssstream.live/live/buccaneers/playlist.m3u8|Referer=http://ssstream.live/</link>
 <thumbnail></thumbnail>
 </item>
 
 
 <item>
-<title>Dolphins vs Packers</title>
-<link>http://vip.ssstream.live/live/nfl/playlist.m3u8|Referer=http://ssstream.live/</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>Chargers vs Raiders</title>
-<link>http://vip.ssstream.live/live/nfl/playlist.m3u8|Referer=http://ssstream.live/</link>
+<title>Bills vs Jets</title>
+<link>http://sv2.ssstream.live/live/jets/playlist.m3u8|Referer=http://ssstream.live/</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -41,14 +34,21 @@
 
 
 <item>
-<title>Redskins vs Buccaneers</title>
-<link>http://sv1.ssstream.live/live/buccaneers/playlist.m3u8|Referer=http://ssstream.live/</link>
+<title>Seahawks vs Rams</title>
+<link>http://d1a5zlheaogn71.cloudfront.net/nfl/rams_hd_4500_pc.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 
 <item>
-<title>Bills vs Jets</title>
-<link>http://sv2.ssstream.live/live/jets/playlist.m3u8|Referer=http://ssstream.live/</link>
+<title>Dolphins vs Packers</title>
+<link>http://d3aod45tjqdozc.cloudfront.net/nfl/packers_hd_4500_pc.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Chargers vs Raiders</title>
+<link>http://d3t33r8sxq6pbt.cloudfront.net/nfl/raiders_hd_4500_pc.m3u8</link>
 <thumbnail></thumbnail>
 </item>

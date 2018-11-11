@@ -4,6 +4,11 @@
 </dir>
 
 <dir>
+	<title>NFL Alternate</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/nflalt.xml</link>
+</dir>
+
+<dir>
 	<title>NBA</title>
 	<sports_leagues>league/NBA/appOFHP8kvFcZ2ZcT</sports_leagues>
 </dir>
